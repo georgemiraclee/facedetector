@@ -8,4 +8,3 @@ Libraries implemented:
 * opencv.js
 * face.api.js
 
-Demo: https://www.carlostoxtli.com/lightweight-webcam-javascript-face-detection/
